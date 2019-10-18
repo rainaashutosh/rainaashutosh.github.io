@@ -4,7 +4,7 @@ title:                      "Rekall Memory Forensics Suite Installation"
 tags:                       [Memory Forensics,Rekall]
 header:
     excerpt:                "Memory Forensics & Rekall"
-    teaser:                 "https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png"
+    overlay_image:          https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png
 ---
 
 # Rekall Memory Forensics Suite Installation – Windows
