@@ -1,6 +1,6 @@
 ---
 layout:                     single
-title:                      "Rekall Memory Forensics Suite Installation \(Windows\)"
+title:                      "Rekall Memory Forensics Suite Installation"
 categories:                 [Memory Forensics,Rekall]
 tags:                       [forensics,windows,rekall]
 author_profile:             false
