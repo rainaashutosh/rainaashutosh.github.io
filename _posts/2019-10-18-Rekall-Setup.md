@@ -3,6 +3,7 @@ layout:                     single
 title:                      "Rekall Memory Forensics Suite Installation"
 categories:                 [Memory Forensics,Rekall]
 tags:                       [forensics,windows,rekall]
+author_profile:             false
 header:
     excerpt:                "Memory Forensics & Rekall"
     teaser:                 https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png
