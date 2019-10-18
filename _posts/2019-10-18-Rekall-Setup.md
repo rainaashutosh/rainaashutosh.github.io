@@ -9,7 +9,7 @@ header:
     teaser:                 https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png
 ---
 
-# Rekall Memory Forensics Suite Installation – Windows
+# Rekall Memory Forensics Suite Installation (Windows)
 This is my first post in Memory Forensics category. In this blog post I ll cover what is Memory Forensics and how to start using [Rekall](http://www.rekall-forensic.com/).
 
 Memory Forensics is the art of using memory dump/image to determine the overall state of the computer (like the list of running processes, threads , loaded libraries etc..). Its mainly used in cyber security incident response analysis or to diagnose operating system/process crashes.
