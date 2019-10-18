@@ -3,7 +3,6 @@ layout:                     single
 title:                      "Rekall Memory Forensics Suite Installation"
 tags:                       [Memory Forensics,Rekall]
 header:
-    overlay_image:          "https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png"
     excerpt:                "Memory Forensics & Rekall"
 ---
 
@@ -33,7 +32,7 @@ Following are the steps to configure rekall on windows/linux machine . Upon inst
 1. Install Python 3.7(or 2.7) on your endpoint.
 2. Install virtualenv from pip.
 3. Create a new virtual environment and activate it.
-```winbatch
+```bash
 #installs virtualenv package
 pip install virtualenv
 #Create a virtual Environment
