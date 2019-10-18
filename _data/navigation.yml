@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://rainaashutosh.github.io
   - title: "Categories"
-    url: /Categories/
+    url: /categories/
   - title: "My Blogs"
-    url: /Blogs/
+    url: /blogs/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
