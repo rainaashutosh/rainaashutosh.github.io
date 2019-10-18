@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://rainaashutosh.github.io
   - title: "Categories"
-    url: /categories/
+    url: /Categories/
   - title: "My Blogs"
     url: /Blogs/
   # - title: "Sample Collections"

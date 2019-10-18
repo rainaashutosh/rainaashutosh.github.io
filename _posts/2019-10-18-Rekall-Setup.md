@@ -1,6 +1,7 @@
 ---
 layout:                     single
 title:                      "Rekall Memory Forensics Suite Installation"
+categories:                       [Memory Forensics,Rekall]
 tags:                       [Memory Forensics,Rekall]
 header:
     excerpt:                "Memory Forensics & Rekall"
