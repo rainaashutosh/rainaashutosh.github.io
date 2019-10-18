@@ -3,7 +3,7 @@ layout:                     single
 title:                      "Rekall Memory Forensics Suite Installation"
 tags:                       [Memory Forensics,Rekall]
 header:
-    image:                  "https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png"
+    overlay_image:          "https://n00bt0l33t.files.wordpress.com/2017/10/rekall-logo-stacked.png"
     excerpt:                "Memory Forensics & Rekall"
 ---
 
@@ -34,11 +34,11 @@ Following are the steps to configure rekall on windows/linux machine . Upon inst
 2. Install virtualenv from pip.
 3. Create a new virtual environment and activate it.
 ```winbatch
-;installs virtualenv package
+#installs virtualenv package
 pip install virtualenv
-;Create a virtual Environment
+#Create a virtual Environment
 python -m virtualenv RekallDevelopment
-; Activate virtual environment
+#Activate virtual environment
 RekallDevelopment\Scripts\activate
 ```
 4. In Linux, virtual enviroment is activated by RekallDevelopment/bin/activate
