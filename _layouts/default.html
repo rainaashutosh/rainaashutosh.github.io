@@ -9,6 +9,13 @@
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+
+  {% if page.cover_image %}
+  <header
+  class="cover-banner" 
+  style="background-image: url({{ page.cover_image }});"
+  >
+  {% endif %}
   <head>
     {% include head.html %}
     {% include head/custom.html %}
