@@ -16,9 +16,6 @@
                     <ul style="float:none">
                       {% for tag in page.tags %}
                         <li style="padding: 0 0 5px 5px"><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
-                        {% if page.tags[page.tags.length - 1] != tag}
-                        ,
-                        {% endif %}
                       {% endfor %}
                     </ul>
                   </div>
