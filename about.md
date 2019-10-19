@@ -4,11 +4,12 @@ title: About
 
 ---
 
-# whoami
+# $whoami
 Ashutosh Raina , Security Researcher by heart and Software Engineer by profession. Currently working as a Software R&D Engineer in Vera Security.
 
 # My blog goals
-I have decided to put starting writing blogs on the stuff i want to learn and that way I can gain and share knowledge from my peers as well. My main inspiration for starting my own blog is my ex-collegue Vimal Shekar . You can follow his blog [here](https://vimalshekar.github.io) _(its really great)_ .
+I have decided to put starting writing blogs on the stuff i want to learn and that way I can gain and share knowledge from my peers as well. My main inspiration for starting my own blog is my ex-collegue Vimal Shekar.You can follow his blog [here](https://vimalshekar.github.io) _(its really great)_ .
+I wish i had started doing it much before but its never too late.. ;) 
 This blogs will primarily be focused around security and other cool stuff maybe..
 
 # Issues/Questions
