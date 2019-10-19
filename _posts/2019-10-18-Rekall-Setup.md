@@ -31,9 +31,9 @@ I personally feel that Rekall is better than Volatality because:
 
 Following are the steps to configure rekall on windows/linux machine . Upon installation you can either to live memory analysis or do analysis on memory dumps. You can use any version of python with Rekall , but ideally it is suggested that you use Python 3.7. For the simplicity, all the steps shall remain same for any version of python installed.
 
-1. Install Python 3.7(or 2.7) on your endpoint.
-2. Install virtualenv from pip.
-3. Create a new virtual environment and activate it.
+- Install Python 3.7(or 2.7) on your endpoint.
+- Install virtualenv from pip.
+- Create a new virtual environment and activate it.
 
 >cmd.exe
 {:.filename}
@@ -45,9 +45,9 @@ python -m virtualenv RekallDevelopment
 #Activate virtual environment
 RekallDevelopment\\Scripts\\activate
 ```
-4. In Linux, virtual enviroment is activated by RekallDevelopment/bin/activate
-5. Now run the command : `pip install rekall`
-6. To start rekall in live memory mode run the command [As elevated user]: `rekall --live Memory`
-7. You should see a console like this. Run commands like pslist, dlllist to see running processes and loaded assemblies.<br>![RekallConsole](https://n00bt0l33t.files.wordpress.com/2017/10/rekall-demo-e1508511920599.png?w=700)
+- In Linux, virtual enviroment is activated by RekallDevelopment/bin/activate
+- Now run the command : `pip install rekall`
+- To start rekall in live memory mode run the command [As elevated user]: `rekall --live Memory`
+- You should see a console like this. Run commands like pslist, dlllist to see running processes and loaded assemblies.<br>![RekallConsole](https://n00bt0l33t.files.wordpress.com/2017/10/rekall-demo-e1508511920599.png?w=700)
 
 In my next post in Memory Forensics I ll go through basic Memory analysis of some malicious memory dumps.
