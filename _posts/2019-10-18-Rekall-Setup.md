@@ -34,6 +34,7 @@ Following are the steps to configure rekall on windows/linux machine . Upon inst
 1. Install Python 3.7(or 2.7) on your endpoint.
 2. Install virtualenv from pip.
 3. Create a new virtual environment and activate it.
+
 >cmd.exe
 {:.filename}
 ```bash
