@@ -1,7 +1,10 @@
 ---
 layout:                     post
 title:                      "Rekall Memory Forensics Suite Installation"
-tags:                       forensics windows rekall
+tags:                      
+ - forensics
+ - windows
+ - rekall
 comments:                   true
 share:                      true
 ---
