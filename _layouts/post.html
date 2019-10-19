@@ -23,6 +23,10 @@
                     {% if page.toc %}
                       {% include toc.html html=content class='toc' %}
                     {% endif %}
+                    {% if page.post_banner %}
+                      <div class="centerImage">
+                        [!PostBanner]({{page.post_banner}})
+                      </div>
                     {{ content }}
                     {% include share.html %}
                   </div>
