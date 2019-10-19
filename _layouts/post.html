@@ -13,9 +13,12 @@
                       <time>{{ page.date | date_to_string }}</time>
                     </div>
                     <br>Tags:
-                    <ul>
+                    <ul style="float:none">
                       {% for tag in page.tags %}
-                        <li><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
+                        <li style="padding: 0 0 5px 5px"><a href="{{ '/tag/' | append: tag | relative_url }}">{{ tag }}</a></li>
+                        {% if page.tags[page.tags.length - 1] != tag}
+                        ,
+                        {% endif %}
                       {% endfor %}
                     </ul>
                   </div>
